@@ -1,5 +1,4 @@
 pyrogram==2.0.106
-tgcrypto
-pytgcalls==4.0.0.dev2
+tgcrypto==1.2.5
+pytgcalls==1.2.0
 youtube_dl
-aiohttp
